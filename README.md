@@ -5,7 +5,9 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
 It is a simple currency converter app. 
+
 This is the first application that i build while learning flutter and Dart.
 
 A few resources to get you started if this is your first Flutter project:
