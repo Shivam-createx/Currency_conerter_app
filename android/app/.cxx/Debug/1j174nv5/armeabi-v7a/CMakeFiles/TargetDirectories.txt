@@ -1,0 +1,2 @@
+D:/Flutter Apps/Currency converter/android/app/.cxx/Debug/1j174nv5/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Flutter Apps/Currency converter/android/app/.cxx/Debug/1j174nv5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
